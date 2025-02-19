@@ -33,3 +33,11 @@ Turn ANY website into an API using Firecrawl and Streamlit! 🚀
   ```
   streamlit run app.py
   ```
+
+## 🔗 Technologies Used
+
+**Firecrawl** – AI-powered web data extraction
+**Streamlit** – Interactive Python apps
+**Pandas** – Data processing
+**Pydantic** – Schema validation
+**Dotenv** – Environment variable management
