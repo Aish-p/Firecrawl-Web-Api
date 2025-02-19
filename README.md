@@ -2,6 +2,7 @@
 
 Turn ANY website into an API using Firecrawl and Streamlit! 🚀
 
+
 ## 🏆 Features
 
 * Extract structured data from any webpage
@@ -12,6 +13,7 @@ Turn ANY website into an API using Firecrawl and Streamlit! 🚀
 
 
 ## ⚡ Quick Start
+
 1️⃣ Clone the Repository
   ```
   git clone https://github.com/Aish-p/firecrawl-web-api.git
@@ -34,10 +36,26 @@ Turn ANY website into an API using Firecrawl and Streamlit! 🚀
   streamlit run app.py
   ```
 
+
+## 🛠 How It Works
+
+1. Enter a website URL in the sidebar.
+
+2. (Optional) Define a custom schema for data extraction.
+
+3. Ask a question about the website's content.
+
+4. Watch Firecrawl extract the data and return structured results.
+
+
 ## 🔗 Technologies Used
 
 **Firecrawl** – AI-powered web data extraction
+
 **Streamlit** – Interactive Python apps
+
 **Pandas** – Data processing
+
 **Pydantic** – Schema validation
+
 **Dotenv** – Environment variable management
