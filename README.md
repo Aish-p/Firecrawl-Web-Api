@@ -64,7 +64,7 @@ WebScraperAPI is a powerful web application that transforms any website into str
 **Dotenv** – Environment variable management
 
 
-## Demo
+## 📌 Demo
 
 <div align="center">
   <p><strong>The main application interface with sidebar configuration</strong></p>
@@ -82,7 +82,7 @@ WebScraperAPI is a powerful web application that transforms any website into str
 <br>
 
 
-## Acknowledgments
+## 🙌 Acknowledgments
 
 - Built with [Streamlit](https://streamlit.io/)
 - Powered by [Firecrawl API](https://firecrawl.com/)
