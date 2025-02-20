@@ -75,6 +75,7 @@ WebScraperAPI is a powerful web application that transforms any website into str
 <div align="center">
   <p><strong>Extracting product details from an e-commerce website</strong></p>
   <img src="/screenshots/product_query1.PNG" alt="Product Query" width="500">
+  <br>
   <img src="/screenshots/product_query2.PNG" alt="Product Query" width="500">
 </div>
 <br>
