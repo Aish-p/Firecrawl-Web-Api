@@ -1,15 +1,15 @@
-# 🔥 Firecrawl Web API – Extract smarter, faster, and better! 
+# WebScraperAPI 🔥 – Extract smarter, faster, and better! 
 
-Turn ANY website into an API using Firecrawl and Streamlit! 🚀
+WebScraperAPI is a powerful web application that transforms any website into structured data using the Firecrawl API. It provides an intuitive interface for extracting specific information from websites and converting it into structured formats like JSON and CSV.
 
+## Features
 
-## 🏆 Features
-
-* Extract structured data from any webpage
-* Define a custom schema for data extraction
-* Interactive chat interface for querying website content
-* Beautiful, responsive UI built with Streamlit
-* Supports real-time data streaming for a smooth experience
+- 🌐 Extract data from any website URL
+- 📊 Custom schema builder for structured data extraction
+- 💬 Natural language interface for data queries
+- ⬇️ Export data in JSON and CSV formats
+- 🔄 Real-time data streaming
+- 🎯 Support for multiple data types (string, boolean, integer, float)
 
 
 ## ⚡ Quick Start
@@ -41,11 +41,14 @@ Turn ANY website into an API using Firecrawl and Streamlit! 🚀
 
 1. Enter a website URL in the sidebar.
 
-2. (Optional) Define a custom schema for data extraction.
+2. (Optional) Configure the schema builder:
+   * Add fields by clicking "Add Field ➕"
+   * Specify field names and types
+   * Remove fields using the ❌ button
 
-3. Ask a question about the website's content.
+3. Ask questions about the website in the chat interface
 
-4. Watch Firecrawl extract the data and return structured results.
+4. Download the extracted data in JSON or CSV format
 
 
 ## 🔗 Technologies Used
@@ -59,3 +62,9 @@ Turn ANY website into an API using Firecrawl and Streamlit! 🚀
 **Pydantic** – Schema validation
 
 **Dotenv** – Environment variable management
+
+
+## Acknowledgments
+
+- Built with [Streamlit](https://streamlit.io/)
+- Powered by [Firecrawl API](https://firecrawl.com/)
