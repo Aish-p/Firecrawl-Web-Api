@@ -63,17 +63,22 @@ WebScraperAPI is a powerful web application that transforms any website into str
 
 **Dotenv** – Environment variable management
 
+
 ## Demo
-### Main Interface
-![Main Interface](screenshots/main_interface.png)
-*The main application interface with sidebar configuration*
 
-### Example Queries and Results
+<div align="center">
+  <p><strong>The main application interface with sidebar configuration</strong></p>
+  <img src="/screenshots/main_interface.PNG" alt="Main Interface" width="500">
+</div>
+<br>
 
-#### Product Information Extraction
-![Product Query](screenshots/product_query1.png)
-![Product Query](screenshots/product_query2.png)
-*Extracting product details from an e-commerce website*
+<div align="center">
+  <p><strong>Extracting product details from an e-commerce website</strong></p>
+  <img src="/screenshots/product_query1.PNG" alt="Product Query" width="500">
+  <img src="/screenshots/product_query2.PNG" alt="Product Query" width="500">
+</div>
+<br>
+
 
 ## Acknowledgments
 
