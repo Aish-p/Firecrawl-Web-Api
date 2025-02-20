@@ -1,6 +1,7 @@
 # WebScraperAPI 🔥 – Extract smarter, faster, and better! 
 
-WebScraperAPI is a powerful web application that transforms any website into structured data using the Firecrawl API. It provides an intuitive interface for extracting specific information from websites and converting it into structured formats like JSON and CSV.
+WebScraperAPI is a powerful web scraping interface that transforms any website into structured, queryable data using natural language. Built with Streamlit and powered by Firecrawl, this tool enables users to extract specific information from websites without writing complex scraping code. Perfect for developers, researchers, and data analysts who need to quickly convert web content into structured JSON or CSV formats.
+
 
 ## Features
 
@@ -10,6 +11,7 @@ WebScraperAPI is a powerful web application that transforms any website into str
 - ⬇️ Export data in JSON and CSV formats
 - 🔄 Real-time data streaming
 - 🎯 Support for multiple data types (string, boolean, integer, float)
+- 🚫 No coding required for end users
 
 
 ## ⚡ Quick Start
