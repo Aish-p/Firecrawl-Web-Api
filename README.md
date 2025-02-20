@@ -16,8 +16,8 @@ WebScraperAPI is a powerful web application that transforms any website into str
 
 1️⃣ Clone the Repository
   ```
-  git clone https://github.com/Aish-p/firecrawl-web-api.git
-  cd firecrawl-web-api
+  git clone https://github.com/Aish-p/WebScraperAPI.git
+  cd WebScraperAPI
   ```
 
 2️⃣ Install Dependencies
@@ -63,6 +63,17 @@ WebScraperAPI is a powerful web application that transforms any website into str
 
 **Dotenv** – Environment variable management
 
+## Demo
+### Main Interface
+![Main Interface](screenshots/main_interface.png)
+*The main application interface with sidebar configuration*
+
+### Example Queries and Results
+
+#### Product Information Extraction
+![Product Query](screenshots/product_query1.png)
+![Product Query](screenshots/product_query2.png)
+*Extracting product details from an e-commerce website*
 
 ## Acknowledgments
 
